@@ -1,2 +1,2 @@
 # mangaChapterCheck
-Code to check if a particular manga has released the next chapter
+Executing main.py would check all the listed mangas in the List.csv and return which all mangas have published chapters after the Latest Read Chapter
